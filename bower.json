@@ -1,0 +1,15 @@
+{
+  "name": "cond-eval",
+  "version": "0.1.0",
+  "authors": [
+    "Josh <joshua.bennett.chan@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
